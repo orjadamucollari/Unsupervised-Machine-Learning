@@ -9,4 +9,4 @@ Users can subscribe to their website and listen to these playlists through their
 The purpose: Use Data Science to add a degree of automatisation to the creation of playlists and use a basic clustering algorithm such as K-Means to divide the dataset into a few clusters (which will become playlists).
 
 
-Data collection: A dataset that has been collected from the Spotify API and contains the audio features (tempo, energy, danceability…) for a few thousand songs
+Data collection: A dataset that has been collected from the Spotify API and contains the audio features (tempo, energy, danceability…) for a five thousand songs
